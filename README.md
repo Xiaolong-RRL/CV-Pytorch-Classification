@@ -2,8 +2,11 @@
 基于pytorch的CV入门教程（图像分类与目标检测）
 
 Author: Ruilong Ren
+
 Time: 2022-1-12
+
 Devices: 4 × GTX 1080Ti
+
 
 ## Backbones
 - LetNet
