@@ -3,7 +3,7 @@
 
 Author: Ruilong Ren
 
-Time: 2022-1-12
+Date: 2022-1-12
 
 GPU: 4 × GTX 1080Ti
 
